@@ -1,0 +1,24 @@
+.card {
+    padding: 0;
+    margin: 0;
+    position: 'relative';
+    max-height: 91.25vh;
+    overflow: hidden;
+}
+
+.textDiv {
+    color: #284f2f;
+    font-size: 2vw;
+    top: 8.5vw;
+    left: 16vw;
+    width: 55vw;
+    max-width: 90vh;
+    position: absolute;
+}
+
+.cardButton {
+    padding: 1vh 2vw;
+    margin-top: 6.5vw;
+    font-size: 1.5vw;
+    background-color: #284f2f;
+}

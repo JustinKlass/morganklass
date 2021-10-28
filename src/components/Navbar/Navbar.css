@@ -1,6 +1,25 @@
 .navbar, .navbar-brand {
     font-size: 1.5rem !important;
-    color: rgba(0,0,0,.55) !important;
-    background-color: #EDC1BB !important;
+    /* color: rgba(0,0,0,.55) !important; */
+    /* background-color: #C9CACC !important; */
+    /* background-color: #EDC1BB !important; */
 }
 
+.navbar {
+    min-height: 85px !important;
+    /* margin-right: 1.5vw !important; */
+}
+
+.navLink {
+    color: #284f2f !important;
+    margin-right: 1.5vw !important;
+}
+
+.navLink:hover {
+    color: #CC9900 !important;
+}
+
+.navBrand {
+    color: #CC9900 !important;
+    margin-left: 1.5vw !important;
+}
